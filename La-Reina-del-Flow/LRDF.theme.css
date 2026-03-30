@@ -7969,6 +7969,9 @@ body[class*="fullscreen"] .layers__160d8,
   color: hsl(330, 100%, 96%) !important;
   transition: background 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease, opacity 0.2s ease !important;
 }
+.acceptAsAvatar__9b0f4 {
+  display: none !important;
+}
 .button_a22cb0.md_a22cb0.fullWidth_a22cb0:not(.overlay-primary_a22cb0):not(.overlay-secondary_a22cb0):not(.secondary_a22cb0):not(.icon-only_a22cb0) {
   width: 100% !important;
 }
